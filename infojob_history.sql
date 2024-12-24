@@ -1,0 +1,1 @@
+SELECT * FROM hr.job_history;
